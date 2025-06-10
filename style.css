@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #6e693e;
+  color: white;
+  line-height: 1.6;
+}
+
+.cabecalho {
+  background-color: #2e2b26;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+.cabecalho h1 {
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+.subtitulo {
+  font-size: 1.1rem;
+  color: #f26922;
+}
+
+.palestra {
+  background-color: #2e2b26;
+  margin: 20px;
+  padding: 20px;
+  border-left: 10px solid #f26922;
+  border-radius: 5px;
+}
+
+.palestra h2 {
+  color: #f26922;
+  font-size: 1.5rem;
+}
+
+.info {
+  background-color: #ffffff10;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+footer {
+  background-color: #1e5631;
+  padding: 15px;
+  text-align: center;
+  color: #fff;
+  font-size: 0.9rem;
+}
